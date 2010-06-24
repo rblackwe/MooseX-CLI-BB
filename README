@@ -1,0 +1,3 @@
+I am daydreaming of a MooseX module for handling the bestpractices of using Moose with CLI apps.
+
+First consideration motivated from Dave Rolsky's Moose class is to use __PACKAGE__->meta->make_immutable to speed loadding of CLI apps.
